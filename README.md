@@ -1,11 +1,11 @@
 # Last District
 
-Doorway comparison images for the high-resolution doorway pass.
+Doorway visual comparison images for the high-resolution doorway pass.
 
 ## Before
 
-![Before doorway comparison](before.jpg)
+![Before doorway comparison](doorways-before.jpg)
 
 ## After
 
-![After doorway comparison](after.jpg)
+![After doorway comparison](doorways-after.jpg)
