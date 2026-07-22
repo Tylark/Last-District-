@@ -1,11 +1,11 @@
-# Last-District-
+# Last District
 
-Sprite comparison images for the sprite grading pass.
+Doorway comparison images for the high-resolution doorway pass.
 
 ## Before
 
-![Before comparison](before.jpg)
+![Before doorway comparison](before.jpg)
 
 ## After
 
-![After comparison](after.jpg)
+![After doorway comparison](after.jpg)
