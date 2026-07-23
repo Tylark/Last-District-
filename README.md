@@ -1,15 +1,15 @@
 # Last District
 
-Doorway visuals for the high-resolution doorway pass on a clean branch.
+Static doorway stills regenerated directly from the high-resolution map texture.
 
 ## Before
 
-![Before doorway comparison](door-visuals-before.jpg)
+![Before doorway comparison](door-visuals-before.png)
 
 ## After
 
-![After doorway comparison](door-visuals-after.jpg)
+![After doorway comparison](door-visuals-after.png)
 
 ## Validation
 
-[`door-animation-validation.json`](door-animation-validation.json) contains the frame and seam checks for the regenerated doorway crops.
+[`door-still-validation.json`](door-still-validation.json) records the source texture and crop boxes used for the regenerated still board.

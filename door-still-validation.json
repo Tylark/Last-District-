@@ -1,0 +1,211 @@
+{
+  "source_texture": {
+    "path": "public/game-art/dead-county-world-hd-v5.webp",
+    "dimensions": [
+      7200,
+      4800
+    ],
+    "regenerated_from_source": true
+  },
+  "before_board": {
+    "path": "door-visuals-before.png",
+    "dimensions": [
+      1688,
+      1118
+    ],
+    "format": "PNG"
+  },
+  "after_board": {
+    "path": "door-visuals-after.png",
+    "dimensions": [
+      2500,
+      1822
+    ],
+    "format": "PNG",
+    "regenerated_from_source": true,
+    "sharpen_pass_used": false,
+    "pixel_gain_vs_before": 2.4136
+  },
+  "doors": [
+    {
+      "id": "motel-room-101",
+      "caption": "room 101 doorway",
+      "source_crop": [
+        475,
+        200,
+        655,
+        450
+      ],
+      "panel": [
+        32,
+        138,
+        832,
+        678
+      ],
+      "fitted_size": [
+        336,
+        466
+      ]
+    },
+    {
+      "id": "motel-room-102",
+      "caption": "room 102 doorway",
+      "source_crop": [
+        665,
+        200,
+        845,
+        450
+      ],
+      "panel": [
+        850,
+        138,
+        1650,
+        678
+      ],
+      "fitted_size": [
+        336,
+        466
+      ]
+    },
+    {
+      "id": "motel-room-103",
+      "caption": "room 103 doorway",
+      "source_crop": [
+        895,
+        200,
+        1075,
+        450
+      ],
+      "panel": [
+        1668,
+        138,
+        2468,
+        678
+      ],
+      "fitted_size": [
+        336,
+        466
+      ]
+    },
+    {
+      "id": "riverside-gate",
+      "caption": "riverside gate",
+      "source_crop": [
+        406,
+        628,
+        960,
+        904
+      ],
+      "panel": [
+        32,
+        696,
+        832,
+        1236
+      ],
+      "fitted_size": [
+        768,
+        383
+      ]
+    },
+    {
+      "id": "market-front",
+      "caption": "market front",
+      "source_crop": [
+        1756,
+        384,
+        2069,
+        746
+      ],
+      "panel": [
+        850,
+        696,
+        1650,
+        1236
+      ],
+      "fitted_size": [
+        403,
+        466
+      ]
+    },
+    {
+      "id": "clinic-front",
+      "caption": "clinic front",
+      "source_crop": [
+        1781,
+        753,
+        2044,
+        1089
+      ],
+      "panel": [
+        1668,
+        696,
+        2468,
+        1236
+      ],
+      "fitted_size": [
+        365,
+        466
+      ]
+    },
+    {
+      "id": "station-bay-center",
+      "caption": "station bay center",
+      "source_crop": [
+        960,
+        1460,
+        1560,
+        1752
+      ],
+      "panel": [
+        32,
+        1254,
+        832,
+        1794
+      ],
+      "fitted_size": [
+        768,
+        374
+      ]
+    },
+    {
+      "id": "station-bay-east",
+      "caption": "station bay east",
+      "source_crop": [
+        1210,
+        1460,
+        1690,
+        1752
+      ],
+      "panel": [
+        850,
+        1254,
+        1650,
+        1794
+      ],
+      "fitted_size": [
+        766,
+        466
+      ]
+    },
+    {
+      "id": "greenhouse-door",
+      "caption": "greenhouse doors",
+      "source_crop": [
+        71,
+        1830,
+        370,
+        2190
+      ],
+      "panel": [
+        1668,
+        1254,
+        2468,
+        1794
+      ],
+      "fitted_size": [
+        387,
+        466
+      ]
+    }
+  ]
+}
